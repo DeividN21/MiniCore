@@ -15,7 +15,7 @@ Presentar de manera general la funcionalidad del MiniCore MVC, en base a las ind
 - Se puede visualizar la tabla de gastos para comparar con la de Filtrado y verificar el funcionamiento correcto del MiniCore.
 
 # Vista de la Página de Filtrado:
-![Imagen](https://github.com/DeividN21/MiniCore/blob/main/Captura%20de%20pantalla%202025-01-21%20194257.png?raw=true)
+![Imagen](https://github.com/DeividN21/MiniCore/blob/main/Captura%20de%20pantalla%202025-01-21%20194309.png?raw=true)
 
 # Instrucciones para Navegar por la Página
 ### Primero:
