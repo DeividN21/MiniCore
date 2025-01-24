@@ -10,8 +10,12 @@ Presentar de manera general la funcionalidad del MiniCore MVC, en base a las ind
 ### MiniCore:
 - El MiniCore del sistema está enfocado en filtrar y calcular los gastos que se encuentran en la base de datos en un rango de fechas que se ingrese.
 
-# Vista de la Página Principal:
-![Imagen](https://raw.githubusercontent.com/DeividN21/Tarea5_AdminMVC/ff857f86d70cd6f3f4bc5d14c86a51cec5d63a87/Captura%20de%20pantalla%202024-11-07%20084014.png)
+# Vista de la Página de Gastos:
+![Imagen](https://github.com/DeividN21/MiniCore/blob/main/Captura%20de%20pantalla%202025-01-21%20194257.png?raw=true)
+- Se puede visualizar la tabla de gastos para comparar con la de Filtrado y verificar el funcionamiento correcto del MiniCore.
+
+# Vista de la Página de Filtrado:
+![Imagen](https://github.com/DeividN21/MiniCore/blob/main/Captura%20de%20pantalla%202025-01-21%20194309.png?raw=true)
 
 # Instrucciones para Navegar por la Página
 ### Primero:
