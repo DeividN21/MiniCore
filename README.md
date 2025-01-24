@@ -31,4 +31,4 @@ Presentar de manera general la funcionalidad del MiniCore MVC, en base a las ind
 - enlace
   
 # Enlace con el deploy
-- enlace
+- https://minicore-2igv.onrender.com
