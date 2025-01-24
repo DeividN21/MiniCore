@@ -28,7 +28,7 @@ Presentar de manera general la funcionalidad del MiniCore MVC, en base a las ind
 - Aplastar el botón de Calcular para que se muestren los datos correspondientes.
 
 # Enlace del Video de Demostración
-- enlace
+- https://youtu.be/bySagZV1Bxo
   
 # Enlace con el deploy
 - https://minicore-2igv.onrender.com
